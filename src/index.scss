@@ -1,0 +1,18 @@
+.mainPage{
+  display: flex;
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.leftBar{
+  width: 300px;
+  background-color: #054276;
+  height: 1000px;
+}
+
+.mainBar{
+  width: 100%;
+  background-color: #fffaf5;
+  height: 1000px;
+}
